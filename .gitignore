@@ -1,0 +1,9 @@
+/src/main/resources/
+/target/
+/.settings/
+/.metadata/
+/.idea/
+/.classpath
+/.factorypath
+/.project
+/HELP.md
